@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Javascript and Python
 
 Update: I'm currently learning Python, R and SQL. Yes im gonna be a data analyst. 10-04-2022
+
 Update 2: I'm still learning things related to Data Analysis, but this year I started learning Rust and developing apps on Flutter
 
 <!---
